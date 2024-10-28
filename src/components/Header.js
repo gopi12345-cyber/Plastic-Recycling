@@ -9,10 +9,10 @@ function Header() {
         </div>
         <div className='header_center'>
             <ul className='list_ul'>
-                <li><a href="#">Home</a></li>
+                <li><a href="/home">Home</a></li>
                 <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Login</a></li>
-                <li><a href="#">Sign Up</a></li>
+                <li><a href="/login">Login</a></li>
+                <li><a href="signin">Sign Up</a></li>
             </ul>
             <div className="dropdown">
             <button className="dropdown-button">Menu</button>
